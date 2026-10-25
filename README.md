@@ -71,3 +71,12 @@ To build a reliable system for small libraries that helps staff maintain a searc
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/OLMS.git
+
+      Username: admin
+   Password: admin123
+🧪 Release 1 Review & Demonstration - Test FlowOrderDemonstrationExpected Result1Log in and open the catalogueAuthorised staff access2Open B-1 and add two physical copiesFive total copies with distinct IDs3Search, edit, deactivate and reactivateCorrect result and preserved IDs4Register a member and toggle statusEligibility changes with status5Restart, log in and check recordsSaved records remainReview Record Includes: date, tester, expected result, actual result, pass/fail and open issues.
+✅ Definition of Done (DoD)
+Feature complete & acceptance criteria passCode reviewed by another memberNormal and invalid inputs pass - No blocking defectChanges save correctly and existing data survives restartEvidence recorded: Shared repository, test results and setup guide🔄 Project Manager Handover
+Outgoing Manager (Member 1): Summarise R1 scope, transfer source files/backlog/setup instructions, explain defects/risks.
+Incoming Manager (Member 2): Confirm baseline, lead R2 planning & daily coordination, assign owners, lead sprint review.
+Handover Record: repository access, runnable version, backlog, test log and open issues.
